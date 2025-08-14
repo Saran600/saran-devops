@@ -4,3 +4,5 @@ new lini
 
 
 new class
+
+new work
